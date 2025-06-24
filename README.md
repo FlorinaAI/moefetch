@@ -33,7 +33,7 @@ It works with **Neofetch**, displays a random image on every launch (or from cac
 ```bash
 git clone https://github.com/FlorinaAI/moefetch.git
 cd moefetch
-chmod x+ install.sh
+chmod +x install.sh
 ./install.sh
 ```
 
@@ -41,7 +41,7 @@ chmod x+ install.sh
 ```bash
 git clone https://github.com/FlorinaAI/moefetch.git
 cd moefetch
-chmod x+ uninstall.sh
+chmod +x uninstall.sh
 ./uninstall.sh
 ```
 
