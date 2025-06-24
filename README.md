@@ -23,7 +23,7 @@ It works with **Neofetch**, displays a random image on every launch (or from cac
 ## 📦 Requirements
 
 - Python 3
-- `requests` Python package (There is a venv in install script)
+- `requests` Python package (Create a venv in folder)
 - A working **Neofetch** installation with image backend support (e.g., `kitty`, `w3m-img`, `chafa`)
 
 ---
